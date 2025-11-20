@@ -4,7 +4,7 @@ Community-curated list of currently active malicious IP addresses identified in 
 # Statistics
 Update of the Malicious-IP List on **2025-11-19 22:14 IST**
 
-Total Malicious IP's **133703**
+Total Malicious IP's **133830**
 
 📜 Usage and Guidance 📜
 
